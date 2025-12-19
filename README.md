@@ -1,8 +1,9 @@
 # Wise Memory Optimizer 🚀 - Clean up the RAM into Fresh!
 <img width="650" height="250" alt="image" src="https://github.com/user-attachments/assets/fa0e9e38-3cbc-46a2-ae3a-524af03cb277" />
 
-**Wise Memory Optimizer** is a lightweight Windows software designed to monitor and optimize system RAM, keeping your PC running efficiently and smoothly.  
-
+**Wise Memory Optimizer** is a lightweight Windows software designed to monitor and optimize system RAM, keeping your PC running efficiently and smoothly. Made by WiseCleaner.
+# [Dive into Releases and grab one that compatibles with you!](https://github.com/DreamPack-Software/WiseMemoryOptimizer/releases)
+---
 ## Key Features
 - **Real-time Memory Monitoring:** Track your RAM usage instantly.  
 - **One-Click Optimization:** Free up memory in a single click.  
